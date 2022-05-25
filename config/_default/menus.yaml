@@ -1,0 +1,21 @@
+leftnav:
+- identifier: d1de24cf-e1fb-4bca-8312-83de813db6bb
+  name: Hello
+  url: /pages/jkanckaj
+  weight: 10
+- identifier: 91c9d49d-4e60-4168-8b49-d130adfb4f8f
+  name: nice
+  url: /pages/knqkfjnkjn
+  weight: 20
+- identifier: 43a71df9-6591-41e9-b215-a4dcfa58e56f
+  name: page 4
+  url: /pages/page-4-draft-off
+  weight: 30
+- identifier: 13a11feb-86b4-4f5b-b349-d39300e89ce0
+  name: page 3
+  url: /pages/page-3-draft-on
+  weight: 40
+- identifier: 6b56e39f-702b-4a97-a1e1-2dc42abfe174
+  name: page 5
+  url: /pages/page-5-draft-on
+  weight: 50
